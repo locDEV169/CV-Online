@@ -1,11 +1,10 @@
 # CV-Online
 # basic options
 title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+author: locDEV169
+email: loc16910@gmail.com
 description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  locDEV169
 
 # Build settings
 markdown: kramdown
